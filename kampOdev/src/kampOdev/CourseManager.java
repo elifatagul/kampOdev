@@ -4,7 +4,7 @@ public class CourseManager {
 	
 	public void registrationSuccessful(Course course) {
 		
-		System.out.println("Kursa kayıt olundu");
+		System.out.println("Kursa kayit olundu");
 	}
 
 }
