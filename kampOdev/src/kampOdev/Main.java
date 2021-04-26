@@ -31,9 +31,10 @@ public class Main {
 		System.out.println();
 		
 		
-		Course course1 = new Course("Yazilim Geliþtirici Yetiþtirme Kampý (JAVA + REACT) ", "Engin Demirog " , 10);
-		Course course2 = new Course("Yazilim Geliþtirici Yetiþtirme Kampý (C# + ANGULAR)", "Engin Demirog", 75);
-		Course course3 = new Course("Programlamaya Giris Ýçin Temel Kurs", "Engin Demirog", 80);
+		Course course1 = new Course("Yazilim Gelistirici Yetistirme Kampi (JAVA + REACT) ", "Engin Demirog " , 10);
+		Course course2 = new Course("Yazilim Gelistirici Yetistirme Kampi (C# + ANGULAR)", "Engin Demirog", 75);
+		Course course3 = new Course("Programlamaya Giris Icin Temel Kurs", "Engin Demirog", 80);
+		
 		
 		Course[] courses = {course1, course2, course3};
 		
