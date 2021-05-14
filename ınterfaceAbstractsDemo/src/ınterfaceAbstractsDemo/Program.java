@@ -12,7 +12,7 @@ public class Program {
 		
 		
 	     BaseCustomerManager customerManager = new StarbucksCustomerManager(new MernisServiceAdapter());
-		 Customer customer1 = new Customer(1,"Elif","Atagül",2001,"89765490451");
+		 Customer customer1 = new Customer(1,"ELÝF","ATAGÜL",2001,"899786765667");
 		 customerManager.save(customer1);
 		 Customer customer2 = new Customer(2,"Ýrem Nur","Ceylan",2000,"89674512349");
 		 customerManager.save(customer2);
